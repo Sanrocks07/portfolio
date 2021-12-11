@@ -61,17 +61,17 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I am Sanchit Pillai, an undergrad Computer Science student and an
-        apsiring Software Engineer. Developing Apps and Websites is what i am
-        passionate about.
+        I am Sanchit Pillai, an undergrad Computer Science student, and an
+        aspiring Software Engineer. Developing Apps and Websites is what
+        I am passionate about.
         <br />
         <br />
-        I've worked with a range of technologies in the development world.
-        Always keen about learning & exloring various technologies to expand my
+        I've worked with a range of technologies in the development world. 
+        Always keen on learning & exploring various technologies to expand my 
         skill set and to deliver the best.
         <br />
         <br />I also love learning algorithms and problem solving which enhances
-        my logical thinking and competitive programming skills.
+         my logical thinking and competitive programming skills.
       </SectionText>
       <SectionDivider />
     </Section>
