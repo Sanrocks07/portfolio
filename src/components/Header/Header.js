@@ -27,7 +27,7 @@ const Header = () => (
             marginBottom: "20;",
           }}
         >
-          <GiBatMask size="3rem" /> <Span>Sanrocks</Span>
+          <GiBatMask size="3rem" /> <Span>Sanchit</Span>
         </a>
       </Link>
     </Div1>
