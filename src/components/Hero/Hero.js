@@ -18,7 +18,7 @@ const Hero = () => (
       </SectionTitle>
       <SectionText>Full Stack Dev | Programmer | Learner</SectionText>
       {/* Insert resume link here! */}
-      <Button onClick={() => window.open("https://drive.google.com/file/d/1OFRXqroNHCqH4jlRrayThEbF1TLDS5CF/view?usp=sharing", "_blank")}>
+      <Button onClick={() => window.open("https://drive.google.com/file/d/1pP1ACHsx-e5_mxDELT2ctfm0DtVp1R65/view?usp=sharing", "_blank")}>
         Resume
       </Button>
     </LeftSection>
